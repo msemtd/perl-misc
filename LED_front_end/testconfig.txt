@@ -1,0 +1,22 @@
+--- KeTech LED Font Testbed 2
+--- v2.0 (11th Nov 2013)
+---
+colours:
+  bg: '#1e501d'
+  grid: '#000040'
+  grid_bg: black
+  led_highlight: yellow
+  led_off: '#4a4a4a'
+  led_on: orange
+geom:
+  gridx: 5
+  gridy: 5
+  numcols: 176
+  numrows: 16
+  offx: 10
+  offy: 10
+tcp:
+  bridge: C:\projects\eclipse-workspace\test-jssc-1\tcpser.exe
+  host: localhost
+  port: 49333
+  seriallink: COM4

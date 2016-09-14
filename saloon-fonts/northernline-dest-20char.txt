@@ -1,0 +1,70 @@
+Edgware via Ch+
+Edgware via Bank
+Edgware
+Colindale via Ch+
+Colindale via Bank
+Colindale
+Golders Grn via Ch+
+Golders Grn via Bank
+Golders Green
+Hampstead via Ch+
+Hampstead via Bank
+Hampstead
+Mill Hill via Ch+
+Mill Hill via Bank
+Mill Hill East
+High Barnet via Ch+
+High Barnet via Bank
+High Barnet
+Finchley Cn via Ch+
+Finchley Cn via Bank
+Finchley Central
+E Finchley via Ch+
+E Finchley via Bank
+East Finchley
+Archway via Ch+
+Archway via Bank
+Archway
+Mornington Crescent
+Euston via Bank
+Euston via Bank
+Charing Cross
+Kings Cross
+Moorgate
+Kennington via Ch+
+Kennington via Bank
+Kennington
+Stockwell via Ch+
+Stockwell via Bank
+Stockwell
+Clapham Com via Ch+
+Clapham Com via Bank
+Clapham Common
+Tooting Bdy via Ch+
+Tooting Bdy via Bank
+Tooting Broadway
+Morden via Ch+
+Morden via Bank
+Morden
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+Train On Test
+Charter Service
+Shuttle Service
+Special Service
+Operator Training
+Last Service Train
+Sorry Not In Service
